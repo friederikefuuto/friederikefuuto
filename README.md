@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Fu
-- 👀 I’m interested in drawing
-- 🌱 I’m currently learning about coding (maybe?)
+
 - M I H O    N I S H I Z U M I is da best
 
 <!---
